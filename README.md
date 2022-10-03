@@ -1,6 +1,6 @@
 # Hey!! Great to see you here! <img src="/src/wave.gif" width="30px" height="30px">
 
-<a href="https://ayushmathpal.github.io/"><img src="/src/profile_banner.gif"></a>
+<a href="https://ayushmathpal.github.io/"><img src="https://raw.githubusercontent.com/halfrost/halfrost/master/icons/header_.png"></a>
 
 * 📖 Pursuing my Bachelor's in Computer Science from [The LNM Institute of Information Technology](https://www.lnmiit.ac.in/). 
 
