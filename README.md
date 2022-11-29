@@ -83,6 +83,10 @@ When I am not coding, you'll find me listening to music or enjoying college life
 ## 📕 Pinned Repositories
 
 <p align="center">
+<a href="https://github.com/AyushMathpal/Krypt_Web3">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=AyushMathpal&repo=Krypt_Web3&hide_border=true&theme=radical" />
+</a>
+
 <a href="https://github.com/AyushMathpal/AyushMathpal.github.io">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=AyushMathpal&repo=AyushMathpal.github.io&hide_border=true&theme=radical" />
 </a>
@@ -93,9 +97,6 @@ When I am not coding, you'll find me listening to music or enjoying college life
 
 <a href="https://github.com/AyushMathpal/Code-journal">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=AyushMathpal&repo=Code-journal&hide_border=true&theme=radical" />
-</a>
-<a href="https://github.com/AyushMathpal/Krypt_Web3">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=AyushMathpal&repo=Krypt_Web3&hide_border=true&theme=radical" />
 </a>
 
 </p>
